@@ -190,7 +190,7 @@
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2280" y="600" as="targetPoint" />
+            <mxPoint x="2300" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-111" value="validate.userType.unpermit.prdid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-110">
@@ -213,8 +213,8 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-105" value="提示登录超时&lt;div&gt;可跳转登录或首页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2070" y="604" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-109" value="缓存&amp;nbsp;videoType 设置为5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="604" width="120" height="60" as="geometry" />
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-109" value="缓存&amp;nbsp;videoType 设置为5&lt;div&gt;停止录制后&lt;/div&gt;&lt;div&gt;跳转main.doubleVideo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="604" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
