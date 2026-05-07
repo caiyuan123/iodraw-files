@@ -69,6 +69,14 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-17" value="判断NFC&lt;div&gt;权限&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="460" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-21" target="u4O4wxzB55FgTi6SuiHc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4O4wxzB55FgTi6SuiHc-25">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-21" value="弹窗提示&lt;div&gt;请开启权限&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="477.5" width="70" height="35" as="geometry" />
         </mxCell>
