@@ -953,7 +953,7 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-7" value="获取随心宝相关页面数据展示sxbConfigData" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="270" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-11" value="判断是否登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="479" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
