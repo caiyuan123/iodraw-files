@@ -107,7 +107,7 @@
           <mxGeometry x="1496.5" y="790" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-77" value="回溯录制提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="595" width="90" height="40" as="geometry" />
+          <mxGeometry x="1115" y="530" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
