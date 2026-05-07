@@ -119,6 +119,11 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-74" value="默认持有 2&lt;div&gt;展示持有页面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1496.5" y="790" width="93" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-77" value="回溯录制提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1115" y="530" width="90" height="40" as="geometry" />
         </mxCell>
@@ -126,7 +131,10 @@
           <mxGeometry x="950" y="530" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-85" value="是否&lt;div&gt;登录&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="630" width="70" height="60" as="geometry" />
+          <mxGeometry x="1125" y="604" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-87" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="620" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
