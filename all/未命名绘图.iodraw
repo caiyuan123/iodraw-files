@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="INgnuXE2ACigf7LlmmfE">
-    <mxGraphModel dx="1167" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="389" dy="1362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,8 +322,11 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-136" value="停止录制&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;跳转&lt;/span&gt;&lt;div&gt;InvestMentRegister 页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-145" target="EYxQIVxVBw3BPNkJbjby-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-145" value="回溯录制&lt;div&gt;进入该页面需要判断&lt;/div&gt;&lt;div&gt;是否要重新录制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1484.5" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1484.51" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
