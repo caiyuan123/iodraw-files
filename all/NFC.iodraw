@@ -47,11 +47,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-11" target="u4O4wxzB55FgTi6SuiHc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-11" value="NFC贴一贴&lt;div&gt;提示页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="490" width="80" height="80" as="geometry" />
+          <mxGeometry x="410" y="490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
