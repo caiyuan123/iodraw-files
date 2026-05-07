@@ -82,8 +82,8 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-66" value="查询客户持有的随心宝份额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1495" y="604" width="96" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-69" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1508" y="690" width="80" height="80" as="geometry" />
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-69" value="总余额&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1503.5" y="690" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
