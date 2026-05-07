@@ -263,7 +263,7 @@
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-129" value="10 或 20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-128">
           <mxGeometry x="-0.2729" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-113" y="56" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-115" value="UserState&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -293,7 +293,7 @@
           <mxGeometry x="810" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-130" value="停止录制&lt;div&gt;跳转&amp;nbsp;InvestMentSign 页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="1020" width="130" height="60" as="geometry" />
+          <mxGeometry x="805" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
