@@ -76,11 +76,14 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-65" value="签约&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1513" y="496" width="61" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-66" target="EYxQIVxVBw3BPNkJbjby-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-66" value="查询客户持有的随心宝份额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1495" y="604" width="96" height="42" as="geometry" />
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-69" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1514" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="1508" y="690" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
