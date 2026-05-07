@@ -18,9 +18,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-51" target="EYxQIVxVBw3BPNkJbjby-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-51" value="版本判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1513.39" width="58.25" height="60" as="geometry" />
         </mxCell>
@@ -316,6 +313,9 @@
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-136" value="停止录制&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;跳转&lt;/span&gt;&lt;div&gt;InvestMentRegister 页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="1010" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-141" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1483" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
