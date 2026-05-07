@@ -160,7 +160,7 @@
           <mxGeometry x="409" y="920" width="81" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-47" value="登录手机银行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="125" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
