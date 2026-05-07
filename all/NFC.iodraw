@@ -165,7 +165,7 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-47" value="登录手机银行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="125" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u4O4wxzB55FgTi6SuiHc-48" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-48" value="判断&lt;span style=&quot;background-color: initial;&quot;&gt;证件&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;是否过期&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="210" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
