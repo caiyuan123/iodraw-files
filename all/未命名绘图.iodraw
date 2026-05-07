@@ -162,6 +162,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1880" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-93" value="ReturnCode&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="486" width="80" height="80" as="geometry" />
         </mxCell>
