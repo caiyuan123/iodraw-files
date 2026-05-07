@@ -261,7 +261,7 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-80" value="判断是否有&lt;div&gt;NFC&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1205" y="372.5" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u4O4wxzB55FgTi6SuiHc-85" value="判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-85" value="判断&lt;div&gt;NFC权限&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1201" y="460" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
