@@ -228,8 +228,8 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-71" value="弹窗提示选择&lt;div&gt;NFC或OCR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1195" y="210" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u4O4wxzB55FgTi6SuiHc-74" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="300" width="50" height="50" as="geometry" />
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-74" value="点击&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="280" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
