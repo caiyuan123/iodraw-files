@@ -159,8 +159,14 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-44" value="银行预留信息&lt;div&gt;菜单列表页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409" y="920" width="81" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-47" target="u4O4wxzB55FgTi6SuiHc-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-47" value="登录手机银行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="125" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-48" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
