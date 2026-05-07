@@ -297,6 +297,14 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-91" value="应用NFC权限&lt;span style=&quot;background-color: initial;&quot;&gt;管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="490" width="60" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-95" target="u4O4wxzB55FgTi6SuiHc-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-103" value="识别信息&lt;div&gt;调接口解密信息&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4O4wxzB55FgTi6SuiHc-102">
+          <mxGeometry x="-0.1486" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-95" value="NFC证件识别&lt;div&gt;提示页面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1199" y="579" width="80" height="30" as="geometry" />
         </mxCell>
@@ -309,7 +317,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-100" value="核验结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1204" y="650" width="61" height="50" as="geometry" />
+          <mxGeometry x="1208.5" y="650" width="61" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-101" value="提示核验&lt;div&gt;失败信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1025.5" y="660" width="80" height="30" as="geometry" />
