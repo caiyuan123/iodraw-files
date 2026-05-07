@@ -83,7 +83,7 @@
           <mxGeometry x="1495" y="604" width="96" height="42" as="geometry" />
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-69" value="总余额&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1503.5" y="690" width="80" height="80" as="geometry" />
+          <mxGeometry x="1509.75" y="690" width="66.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
