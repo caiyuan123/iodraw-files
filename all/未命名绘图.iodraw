@@ -281,7 +281,7 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-124" value="弹窗提示&lt;div&gt;关联银行卡操作&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-127" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-127" value="弹窗提示&lt;div&gt;购买基金产品前&lt;/div&gt;&lt;div&gt;需进行签约&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
