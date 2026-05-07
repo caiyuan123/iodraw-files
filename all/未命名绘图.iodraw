@@ -101,6 +101,9 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-74" value="默认持有 2&lt;div&gt;展示持有页面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1496.5" y="790" width="93" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-76" value="点击&lt;div&gt;立即转入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="525" width="100" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
