@@ -59,7 +59,7 @@
             <mxPoint x="1160" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-79">
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-81" value="点击&lt;div&gt;立即转入&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-79">
           <mxGeometry x="0.4172" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -113,6 +113,9 @@
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-77" value="回溯录制提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1115" y="530" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-82" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
