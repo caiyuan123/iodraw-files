@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="INgnuXE2ACigf7LlmmfE">
-    <mxGraphModel dx="350" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,11 +137,6 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-37" target="u4O4wxzB55FgTi6SuiHc-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u4O4wxzB55FgTi6SuiHc-42" value="点击确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4O4wxzB55FgTi6SuiHc-41">
-          <mxGeometry x="-0.2304" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-37" value="信息确认页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409" y="760" width="80" height="40" as="geometry" />
         </mxCell>
@@ -154,10 +149,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-40" value="更新证件&lt;div&gt;成功提示页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="840" width="80" height="40" as="geometry" />
+          <mxGeometry x="409.5" y="910" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-44" value="银行预留信息&lt;div&gt;菜单列表页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="920" width="81" height="40" as="geometry" />
+          <mxGeometry x="409.5" y="990" width="81" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-47" target="u4O4wxzB55FgTi6SuiHc-48">
           <mxGeometry relative="1" as="geometry" />
