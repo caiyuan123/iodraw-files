@@ -129,7 +129,7 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-37" target="u4O4wxzB55FgTi6SuiHc-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u4O4wxzB55FgTi6SuiHc-42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4O4wxzB55FgTi6SuiHc-41">
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-42" value="点击确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4O4wxzB55FgTi6SuiHc-41">
           <mxGeometry x="-0.2304" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -137,7 +137,7 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-37" value="信息确认页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u4O4wxzB55FgTi6SuiHc-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-40" value="更新证件&lt;div&gt;成功提示页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409" y="840" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
