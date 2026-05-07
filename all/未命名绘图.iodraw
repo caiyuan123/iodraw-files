@@ -151,7 +151,7 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-85" target="EYxQIVxVBw3BPNkJbjby-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-117" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-116">
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-117" value="已登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-116">
           <mxGeometry x="-0.0667" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -237,7 +237,7 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-112" value="Alert 返回的msg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2410" y="604" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-115" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-115" value="UserState&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="730" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
