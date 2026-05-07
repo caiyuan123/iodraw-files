@@ -258,6 +258,9 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-115" target="EYxQIVxVBw3BPNkJbjby-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-115" value="UserState&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1125" y="730" width="70" height="70" as="geometry" />
         </mxCell>
@@ -274,7 +277,7 @@
           <mxGeometry x="960" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-127" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
