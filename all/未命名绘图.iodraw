@@ -18,6 +18,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-51" target="EYxQIVxVBw3BPNkJbjby-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-147" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-146">
+          <mxGeometry x="0.0274" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-51" value="版本判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1515.38" y="-220" width="58.25" height="60" as="geometry" />
         </mxCell>
@@ -315,7 +323,7 @@
           <mxGeometry x="645" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-145" value="回溯录制&lt;div&gt;进入该页面需要判断&lt;/div&gt;&lt;div&gt;是否要重新录制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="-60" width="120" height="60" as="geometry" />
+          <mxGeometry x="1484.5" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
