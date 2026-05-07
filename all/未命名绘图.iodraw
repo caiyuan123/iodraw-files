@@ -54,9 +54,14 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-59" value="判断是否登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1512.51" y="373" width="61" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-60">
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-60" target="EYxQIVxVBw3BPNkJbjby-77">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1160" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-79">
+          <mxGeometry x="0.4172" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-60" value="默认未持有 1&lt;div&gt;调用SuiXinBaoProductQry&lt;br&gt;&lt;div&gt;查询数据展示&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
