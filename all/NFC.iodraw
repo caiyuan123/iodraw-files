@@ -148,6 +148,11 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-40" target="u4O4wxzB55FgTi6SuiHc-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-46" value="点击返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4O4wxzB55FgTi6SuiHc-45">
+          <mxGeometry x="-0.1309" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-40" value="更新证件&lt;div&gt;成功提示页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409" y="840" width="80" height="40" as="geometry" />
         </mxCell>
