@@ -7,6 +7,11 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-1" target="u4O4wxzB55FgTi6SuiHc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-6" value="点击更新证件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4O4wxzB55FgTi6SuiHc-3">
+          <mxGeometry x="-0.3043" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-1" value="银行预留信息页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="110" width="120" height="60" as="geometry" />
         </mxCell>
