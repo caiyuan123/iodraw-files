@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-60" value="默认未持有 1&lt;div&gt;调用SuiXinBaoProductQry&lt;br&gt;&lt;div&gt;查询数据展示&lt;/div&gt;&lt;/div&gt;&lt;div&gt;已登录则调用SuiXinBaoBuyCheck&lt;/div&gt;&lt;div&gt;查询&amp;nbsp;UserState&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="340" width="155" height="94.25" as="geometry" />
+          <mxGeometry x="1249" y="360.88" width="155" height="94.25" as="geometry" />
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-65" target="EYxQIVxVBw3BPNkJbjby-60">
           <mxGeometry relative="1" as="geometry" />
