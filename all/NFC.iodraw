@@ -34,10 +34,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-7" value="判断是否有&lt;div&gt;NFC&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="230" width="80" height="80" as="geometry" />
+          <mxGeometry x="410" y="210" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-8" value="原来的OCR流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="225" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-11" target="u4O4wxzB55FgTi6SuiHc-8">
           <mxGeometry relative="1" as="geometry" />
