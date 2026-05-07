@@ -91,8 +91,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-65" target="EYxQIVxVBw3BPNkJbjby-90">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="526" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-92" value="接口异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-91">
           <mxGeometry x="-0.2323" y="-1" relative="1" as="geometry">
@@ -151,9 +153,6 @@
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-87" value="跳转登录页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="619" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="506" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
