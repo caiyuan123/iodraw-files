@@ -236,6 +236,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-74" target="u4O4wxzB55FgTi6SuiHc-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-74" value="点击&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1215" y="280" width="50" height="50" as="geometry" />
         </mxCell>
@@ -243,7 +246,7 @@
           <mxGeometry x="1070" y="292" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-80" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="360" width="70" height="60" as="geometry" />
+          <mxGeometry x="1206" y="390" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
