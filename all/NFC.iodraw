@@ -39,6 +39,9 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-8" value="原来的OCR流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-11" target="u4O4wxzB55FgTi6SuiHc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-11" value="NFC贴一贴&lt;div&gt;提示页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
         </mxCell>
