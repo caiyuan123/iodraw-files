@@ -154,11 +154,14 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-87" value="跳转登录页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="619" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-93" target="EYxQIVxVBw3BPNkJbjby-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-93" value="ReturnCode&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="486" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-94" value="&lt;div&gt;UserState = &quot;noadd&quot;&lt;/div&gt;&lt;div&gt;NeedAcctAdd = true&lt;/div&gt;&lt;div&gt;记录 ReturnMessage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1734" y="595" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="604" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
