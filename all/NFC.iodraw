@@ -134,9 +134,6 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-34" value="提示核验&lt;div&gt;失败信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="670" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u4O4wxzB55FgTi6SuiHc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-37" target="u4O4wxzB55FgTi6SuiHc-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-37" value="信息确认页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409" y="760" width="80" height="40" as="geometry" />
         </mxCell>
@@ -192,6 +189,9 @@
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-54" value="弹窗提示&lt;div&gt;需要更新信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="220" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="830" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
