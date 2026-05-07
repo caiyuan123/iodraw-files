@@ -148,6 +148,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-85" target="EYxQIVxVBw3BPNkJbjby-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-117" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-116">
+          <mxGeometry x="-0.0667" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-85" value="是否&lt;div&gt;登录&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1125" y="604" width="70" height="60" as="geometry" />
         </mxCell>
