@@ -167,6 +167,11 @@
             <mxPoint x="1880" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-99" value="role.invalid_user" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-98">
+          <mxGeometry x="0.6917" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-93" value="ReturnCode&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="486" width="80" height="80" as="geometry" />
         </mxCell>
@@ -174,7 +179,7 @@
           <mxGeometry x="1634" y="604" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-97" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="604" width="120" height="60" as="geometry" />
+          <mxGeometry x="1850" y="604" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
