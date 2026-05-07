@@ -958,10 +958,15 @@
             <mxPoint x="390" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-15" value="未登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-14">
+          <mxGeometry x="-0.0605" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EYxQIVxVBw3BPNkJbjby-11" value="判断是否登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="488.51" y="360" width="61" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-13" value="默认未持有" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="377.5" width="75" height="35" as="geometry" />
         </mxCell>
       </root>
