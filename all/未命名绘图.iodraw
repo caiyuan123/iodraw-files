@@ -295,6 +295,20 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-130" value="停止录制&lt;div&gt;跳转&amp;nbsp;InvestMentSign 页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="805" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EYxQIVxVBw3BPNkJbjby-135" target="EYxQIVxVBw3BPNkJbjby-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-134" value="点击确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EYxQIVxVBw3BPNkJbjby-133">
+          <mxGeometry x="-0.0302" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-135" value="弹窗提示&lt;div&gt;购买基金产品前&lt;/div&gt;&lt;div&gt;需进行签约&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-136" value="停止录制&lt;div&gt;跳转&amp;nbsp;InvestMentSign 页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="1020" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
