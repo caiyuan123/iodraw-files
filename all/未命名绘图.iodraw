@@ -930,7 +930,7 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-1" value="进入页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="488" y="110" width="62" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EYxQIVxVBw3BPNkJbjby-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-2" value="版本判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495.5" y="200" width="47" height="50" as="geometry" />
         </mxCell>
       </root>
