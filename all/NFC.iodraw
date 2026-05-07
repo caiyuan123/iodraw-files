@@ -156,10 +156,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-40" value="更新证件&lt;div&gt;成功提示页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="930" width="80" height="40" as="geometry" />
+          <mxGeometry x="408" y="970" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-44" value="银行预留信息&lt;div&gt;菜单列表页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="1010" width="81" height="40" as="geometry" />
+          <mxGeometry x="408" y="1050" width="81" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-47" target="u4O4wxzB55FgTi6SuiHc-48">
           <mxGeometry relative="1" as="geometry" />
@@ -199,6 +199,9 @@
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-54" value="弹窗提示&lt;div&gt;需要更新信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="220" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-67" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="860" width="53" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
