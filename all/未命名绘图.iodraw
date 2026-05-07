@@ -314,6 +314,9 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-136" value="停止录制&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;跳转&lt;/span&gt;&lt;div&gt;InvestMentRegister 页&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-142" value="是否需要重新开启录制" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1503" y="100" width="77" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
