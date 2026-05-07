@@ -950,6 +950,9 @@
         <mxCell id="EYxQIVxVBw3BPNkJbjby-7" value="获取随心宝相关页面数据展示sxbConfigData" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="310" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="EYxQIVxVBw3BPNkJbjby-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="411" width="96" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
