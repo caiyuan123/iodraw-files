@@ -200,7 +200,7 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-54" value="弹窗提示&lt;div&gt;需要更新信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="220" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="u4O4wxzB55FgTi6SuiHc-67" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-67" value="人脸&lt;div&gt;识别&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="423.5" y="860" width="53" height="50" as="geometry" />
         </mxCell>
       </root>
