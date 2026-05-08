@@ -333,7 +333,7 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-104" value="卡号信息回填" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1196" y="780" width="89" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u4O4wxzB55FgTi6SuiHc-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-108">
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-108" target="u4O4wxzB55FgTi6SuiHc-112">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1605" y="180" as="targetPoint" />
           </mxGeometry>
@@ -347,7 +347,10 @@
           <mxGeometry x="1570" y="85" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-112" value="调用原生&lt;div&gt;js桥判断&lt;/div&gt;&lt;div&gt;是否有NFC&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1565" y="200" width="80" height="80" as="geometry" />
+          <mxGeometry x="1565" y="185" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-113" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="195" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
