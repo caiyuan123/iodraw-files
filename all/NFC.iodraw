@@ -368,11 +368,14 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-113" value=".catch中走原来OCR流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="207.5" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-116" target="u4O4wxzB55FgTi6SuiHc-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-116" value="js桥进入原生提示页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1567" y="318" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-121" value="回调&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1567" y="390" width="73" height="70" as="geometry" />
+          <mxGeometry x="1573.5" y="417.5" width="63" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
