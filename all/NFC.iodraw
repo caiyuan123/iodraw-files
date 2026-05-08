@@ -382,11 +382,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-121" target="u4O4wxzB55FgTi6SuiHc-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-121" value="回调&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1573.5" y="390" width="63" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u4O4wxzB55FgTi6SuiHc-125" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="530" width="90" height="40" as="geometry" />
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-125" value="信息确认页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="520" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
