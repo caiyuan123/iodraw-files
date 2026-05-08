@@ -357,6 +357,11 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-112" target="u4O4wxzB55FgTi6SuiHc-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-118" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4O4wxzB55FgTi6SuiHc-117">
+          <mxGeometry x="-0.1123" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-112" value="调用原生&lt;div&gt;js桥判断&lt;/div&gt;&lt;div&gt;是否有NFC&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1565" y="185" width="80" height="80" as="geometry" />
         </mxCell>
