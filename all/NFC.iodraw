@@ -371,6 +371,9 @@
         <mxCell id="u4O4wxzB55FgTi6SuiHc-116" value="js桥进入原生提示页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1567" y="318" width="76" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-121" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1567" y="390" width="73" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
