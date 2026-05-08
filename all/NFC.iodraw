@@ -354,6 +354,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="u4O4wxzB55FgTi6SuiHc-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4O4wxzB55FgTi6SuiHc-112" target="u4O4wxzB55FgTi6SuiHc-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-112" value="调用原生&lt;div&gt;js桥判断&lt;/div&gt;&lt;div&gt;是否有NFC&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1565" y="185" width="80" height="80" as="geometry" />
         </mxCell>
@@ -361,7 +364,7 @@
           <mxGeometry x="1410" y="207.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-116" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1534" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="1567" y="318" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
