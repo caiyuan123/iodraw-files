@@ -335,7 +335,7 @@
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="u4O4wxzB55FgTi6SuiHc-108" target="u4O4wxzB55FgTi6SuiHc-112" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1605" y="180" as="targetPoint" />
+            <mxPoint x="1795" y="189" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-111" value="点击更新证件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u4O4wxzB55FgTi6SuiHc-110" vertex="1" connectable="0">
@@ -344,7 +344,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-108" value="银行预留信息页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1570" y="85" width="70" height="30" as="geometry" />
+          <mxGeometry x="1760" y="94" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="u4O4wxzB55FgTi6SuiHc-112" target="u4O4wxzB55FgTi6SuiHc-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -363,16 +363,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-112" value="调用原生&lt;div&gt;js桥判断&lt;/div&gt;&lt;div&gt;是否有NFC&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1565" y="185" width="80" height="80" as="geometry" />
+          <mxGeometry x="1755" y="194" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-113" value=".catch中走原来OCR流程" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="207.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="1600" y="216.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="u4O4wxzB55FgTi6SuiHc-116" target="u4O4wxzB55FgTi6SuiHc-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-116" value="js桥进入原生提示页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1567" y="318" width="76" height="30" as="geometry" />
+          <mxGeometry x="1757" y="327" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="u4O4wxzB55FgTi6SuiHc-121" target="u4O4wxzB55FgTi6SuiHc-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -391,10 +391,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-121" value="回调&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1573.5" y="390" width="63" height="60" as="geometry" />
+          <mxGeometry x="1763.5" y="399" width="63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u4O4wxzB55FgTi6SuiHc-125" value="信息确认页" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="520" width="90" height="40" as="geometry" />
+          <mxGeometry x="1750" y="529" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
