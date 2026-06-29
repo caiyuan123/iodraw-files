@@ -40,6 +40,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z8ncG8Oipzaewm1uT_AO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8ncG8Oipzaewm1uT_AO-9" target="Z8ncG8Oipzaewm1uT_AO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8ncG8Oipzaewm1uT_AO-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z8ncG8Oipzaewm1uT_AO-25">
+          <mxGeometry x="-0.2733" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Z8ncG8Oipzaewm1uT_AO-9" value="判断APP定位权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="260" width="55" height="60" as="geometry" />
         </mxCell>
@@ -47,7 +55,7 @@
           <mxGeometry x="220" y="270" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z8ncG8Oipzaewm1uT_AO-24" value="判断APP定位权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="270" width="55" height="60" as="geometry" />
+          <mxGeometry x="367.5" y="370" width="55" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
