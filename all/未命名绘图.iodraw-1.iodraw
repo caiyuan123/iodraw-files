@@ -7,7 +7,7 @@
         <mxCell id="Z8ncG8Oipzaewm1uT_AO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8ncG8Oipzaewm1uT_AO-1" target="Z8ncG8Oipzaewm1uT_AO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z8ncG8Oipzaewm1uT_AO-1" value="点击下一步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z8ncG8Oipzaewm1uT_AO-1" value="H5点击&lt;div&gt;下一步&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="50" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z8ncG8Oipzaewm1uT_AO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8ncG8Oipzaewm1uT_AO-2" target="Z8ncG8Oipzaewm1uT_AO-5">
@@ -51,9 +51,6 @@
         <mxCell id="Z8ncG8Oipzaewm1uT_AO-9" value="判断APP定位权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="260" width="55" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z8ncG8Oipzaewm1uT_AO-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8ncG8Oipzaewm1uT_AO-20" target="Z8ncG8Oipzaewm1uT_AO-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Z8ncG8Oipzaewm1uT_AO-20" value="返回1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="70" height="40" as="geometry" />
         </mxCell>
@@ -81,9 +78,6 @@
         </mxCell>
         <mxCell id="Z8ncG8Oipzaewm1uT_AO-30" value="返回2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="380" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8ncG8Oipzaewm1uT_AO-36" value="客户端弹框提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="270" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
