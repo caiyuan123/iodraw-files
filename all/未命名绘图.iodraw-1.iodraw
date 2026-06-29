@@ -13,6 +13,11 @@
         <mxCell id="Z8ncG8Oipzaewm1uT_AO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8ncG8Oipzaewm1uT_AO-2" target="Z8ncG8Oipzaewm1uT_AO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Z8ncG8Oipzaewm1uT_AO-7" value="type=2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z8ncG8Oipzaewm1uT_AO-6">
+          <mxGeometry x="0.0753" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Z8ncG8Oipzaewm1uT_AO-2" value="JS桥参数&lt;div&gt;type&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="140" width="55" height="60" as="geometry" />
         </mxCell>
